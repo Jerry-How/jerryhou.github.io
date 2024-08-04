@@ -12,7 +12,7 @@ title                    : "Jerry's Page"
 title_separator          : "-"
 name                     : &name "Jerry"
 description              : &description "Ph.D candidate from HUST"
-url                      : https://github.com/Jerry-How/jerryhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jerry-how.github.io/jerryhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Jerry-How/jerryhou.github.io"
 
