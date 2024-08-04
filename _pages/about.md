@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a second year Ph.D student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes video analytics, networking, deep learning and edge computing.
 
-My email is:  jerry_hou@hust.edu.cn. You can find my CV here:[Jerry's Curriculum Vitae](../assets/Jerry_CV.pdf).
+My email is:  jerry_hou@hust.edu.cn. You can find my CV here:[Jerry's Curriculum Vitae](Jerry_CV.pdf).
 # Publications
 ## Conference Papers
 1. [Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception](https://ieeexplore.ieee.org/abstract/document/10436797), Yan Cheng, Peng Yang, Ning Zhang, **Jiawei Hou**, IEEE GLOBECOM, 2023.
@@ -34,23 +34,4 @@ My email is:  jerry_hou@hust.edu.cn. You can find my CV here:[Jerry's Curriculum
 + IEEE Transactions on Mobile Computing
 + IEEE Network Magazine
   
-<html lang="zh">  
-<head>  
-    <meta charset="UTF-8">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>居中图标</title>  
-    <style>  
-        .center {  
-            display: flex;  
-            justify-content: center;  
-            align-items: center;  
-            height: 100vh; /* 使容器填满整个视口高度 */  
-        }  
-    </style>  
-</head>  
-<body>  
-    <div class="center">  
-        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=54ygwhepfl6&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>  
-    </div>  
-</body>  
-</html>
+<a href="http://s11.flagcounter.com/more/qaO"><img src="https://s11.flagcounter.com/count2/qaO/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
