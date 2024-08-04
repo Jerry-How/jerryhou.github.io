@@ -34,4 +34,24 @@ My email is:[Jerry](mailto:jerry_hou@hust.edu.cn). You can find my CV here:[Jerr
 + IEEE Transactions on Mobile Computing
 + IEEE Network Magazine
   
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=54ygwhepfl6&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>
+<!DOCTYPE html>  
+<html lang="zh">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>居中图标</title>  
+    <style>  
+        .center {  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            height: 100vh; /* 使容器填满整个视口高度 */  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div class="center">  
+        <script type="text/javascript" src="//rf.revolvermaps.com/0/0/1.js?i=54ygwhepfl6&amp;s=220&amp;m=0&amp;v=true&amp;r=false&amp;b=000000&amp;n=false&amp;c=ff0000" async="async"></script>  
+    </div>  
+</body>  
+</html>
