@@ -34,7 +34,6 @@ My email is:[Jerry](mailto:jerry_hou@hust.edu.cn). You can find my CV here:[Jerr
 + IEEE Transactions on Mobile Computing
 + IEEE Network Magazine
   
-<!DOCTYPE html>  
 <html lang="zh">  
 <head>  
     <meta charset="UTF-8">  
