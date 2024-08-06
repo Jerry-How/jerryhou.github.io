@@ -14,7 +14,7 @@ My email is:  jerry_hou@hust.edu.cn.
 ## Conference Papers
 1. Tian Qin, **Jiawei Hou**, Peng Yang, Xiaofeng Cao, Ye Wu, [Edge-Assisted Low-Latency Object Detection for Networked Vehicles Using Point Cloud](https://ieeexplore.ieee.org/abstract/document/10608254),  *International Conference on Cloud and Network Computing*, pp. 49-56, 2024.
 2. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, Adaptive Offloading and Enhancement for Low-Light Video Analytics on Mobile Devices, *IEEE GLOBECOM*, 2024.
-3. Y. Cheng, P. Yang, N. Zhang, **J. Hou**, [Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception](https://ieeexplore.ieee.org/abstract/document/10436797), *IEEE GLOBECOM*, pp. 1054-1059, 2023.
+3. Yan Cheng, Peng Yang, Ning Zhang, **Jiawei Hou**, [Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception](https://ieeexplore.ieee.org/abstract/document/10436797), *IEEE GLOBECOM*, pp. 1054-1059, 2023.
 4. **Jiawei Hou**, Peng Yang, Tian Qin, Wen Wu, [Edge-Coordinated On-Road Perception for Connected Autonomous Vehicles Using Point Cloud](https://ieeexplore.ieee.org/abstract/document/10201836),  *Biennial Symposium on Communications*, 2023.
 
 ## Journal Papers
