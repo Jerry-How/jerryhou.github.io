@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm a second year Ph.D student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and edge computing, vehicular networks and cooperative perception.
+I'm Jiawei Hou(侯甲慰), a second year Ph.D student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and edge computing, vehicular networks and cooperative perception.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
