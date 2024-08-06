@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year Ph.D student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes video analytics, networking, deep learning and edge computing.
+I'm a second year Ph.D student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and edge computing, vehicular networks and cooperative perception.
 
-My email is:  jerry_hou@hust.edu.cn. You can find my CV here:[Jerry's Curriculum Vitae](../assets/Jerry_CV.pdf).
+My email is:  jerry_hou@hust.edu.cn.
 # Publications
 ## Conference Papers
 1. [Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception](https://ieeexplore.ieee.org/abstract/document/10436797), Yan Cheng, Peng Yang, Ning Zhang, **Jiawei Hou**, IEEE GLOBECOM, 2023.
