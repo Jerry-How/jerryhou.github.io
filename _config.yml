@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jerry's Page"
+title                    : "Jiawei Hou's Page"
 title_separator          : "-"
 name                     : &name "Jerry"
 description              : &description "Ph.D candidate from HUST"
@@ -24,7 +24,7 @@ author:
   avatar           : "img.png"
   name             : "Jiawei Hou (Jerry)"
   pronouns         : # example: "she/her"  
-  bio              : "a second year Ph.D candidate from HUST"
+  bio              : "a third year Ph.D candidate from HUST"
   location         : "Wuhan, China"
   employer         : 
   uri              : # URL
