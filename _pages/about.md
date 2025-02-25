@@ -18,8 +18,8 @@ My email is:  jerry_hou@hust.edu.cn.
 4. Yan Cheng, Peng Yang, Ning Zhang, **Jiawei Hou**, [Edge-Assisted Lightweight Region-of-Interest Extraction and Transmission for Vehicle Perception](https://ieeexplore.ieee.org/abstract/document/10436797), *IEEE GLOBECOM*, pp. 1054-1059, 2023.
 
 ## Journal Papers
-1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Tian Qin, Feng Lyu, Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks, *IEEE Transactions on Intelligent Transportation Systems*, *accepted*.
-2. Yezheng Zhang^, Zhijie Fan^, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles], *IEEE Transactions on Vehicular Technology*, *early access*.
+1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Tian Qin, Feng Lyu, [Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks](https://ieeexplore.ieee.org/document/10901958), *IEEE Transactions on Intelligent Transportation Systems*, *accepted*.
+2. Yezheng Zhang^*^, Zhijie Fan^*^, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles](https://ieeexplore.ieee.org/document/10806876), *IEEE Transactions on Vehicular Technology*, *early access*.
 3. Peng Yang, **Jiawei Hou**, Li Yu, Wenxiong Chen, Ye Wu, [Edge-coordinated energy-efficient video analytics for digital twin in 6G](https://ieeexplore.ieee.org/abstract/document/10061660), *China Communications*, vol. 20, no. 2, pp. 14-25, 2023.
 4. Chengzhi Wang, Peng Yang, **Jiawei Hou**, Zhi Liu, Ning Zhang, [Dependence-Aware Multi-Task Scheduling for Edge Video Analytics With Accuracy Guarantee](https://ieeexplore.ieee.org/abstract/document/10543048),  *IEEE Internet of Things Journal*, vol. 11, no. 16, pp. 26970-26983, 2024.
 5. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, [Joint Encoding and Enhancement for Low-Light Video Analytics in Mobile Edge Networks](https://ieeexplore.ieee.org/abstract/document/10787093), *IEEE Transactions on Mobile Computing*, *early access*
