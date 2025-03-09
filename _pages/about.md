@@ -44,9 +44,9 @@ My email is:  jerry_hou@hust.edu.cn.
 + Wireless Communication (for international students)
 
 ## Sports
-+ Basketball :basketball::basketball::basketball:
-+ Swimming :swimmer::swimmer::swimmer:
-+ Skiing :ski::ski::ski:
++ Basketball :basketball: :basketball: :basketball:
++ Swimming :swimmer: :swimmer: :swimmer:
++ Skiing :ski: :ski: :ski:
 + Black belt in Taekwondo
 
 
