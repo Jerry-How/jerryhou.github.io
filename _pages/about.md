@@ -43,10 +43,11 @@ My email is:  jerry_hou@hust.edu.cn.
 + IT Project Management (for international students)
 + Wireless Communication (for international students)
 
-## Sports
-+ Basketball :basketball: :basketball: :basketball:
-+ Swimming :swimmer: :swimmer: :swimmer:
-+ Skiing :ski: :ski: :ski:
+# Miscellaneous
+## Sports 
++ Basketball :basketball:
++ Swimming :swimmer:
++ Skiing :ski:
 + Black belt in Taekwondo
 
 
