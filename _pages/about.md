@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm Jiawei Hou(侯甲慰), a third year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and mobile edge computing &#x1F4F1;&#x1F4F1;, vehicular networks &#x2B50;&#x2B50; and cooperative perception &#x1F697;&#x1F697;.
+I'm Jiawei Hou(侯甲慰), a third year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and mobile edge computing :iphone: :iphone:, vehicular networks :star: :star: and cooperative perception :red_car: :red_car:.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
@@ -19,7 +19,7 @@ My email is:  jerry_hou@hust.edu.cn.
 
 ## Journal Papers
 1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Tian Qin, Feng Lyu, [Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks](https://ieeexplore.ieee.org/document/10901958), *IEEE Transactions on Intelligent Transportation Systems*, *early access*.
-2. Yezheng Zhang^*^, Zhijie Fan^*^, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles](https://ieeexplore.ieee.org/document/10806876), *IEEE Transactions on Vehicular Technology*, , vol. 74, no. 4, pp. 5637-5648, 2025.
+2. Yezheng Zhang*, Zhijie Fan*, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles](https://ieeexplore.ieee.org/document/10806876), *IEEE Transactions on Vehicular Technology*, , vol. 74, no. 4, pp. 5637-5648, 2025.
 3. Peng Yang, **Jiawei Hou**, Li Yu, Wenxiong Chen, Ye Wu, [Edge-coordinated energy-efficient video analytics for digital twin in 6G](https://ieeexplore.ieee.org/abstract/document/10061660), *China Communications*, vol. 20, no. 2, pp. 14-25, 2023.
 4. Chengzhi Wang, Peng Yang, **Jiawei Hou**, Zhi Liu, Ning Zhang, [Dependence-Aware Multi-Task Scheduling for Edge Video Analytics With Accuracy Guarantee](https://ieeexplore.ieee.org/abstract/document/10543048),  *IEEE Internet of Things Journal*, vol. 11, no. 16, pp. 26970-26983, 2024.
 5. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, [Joint Encoding and Enhancement for Low-Light Video Analytics in Mobile Edge Networks](https://ieeexplore.ieee.org/abstract/document/10787093), *IEEE Transactions on Mobile Computing*,  vol. 24, no. 4, pp. 3330-3345, 2025.
@@ -45,9 +45,9 @@ My email is:  jerry_hou@hust.edu.cn.
 
 # Miscellaneous
 ## Sports 
-+ Basketball &#x1F3C0;
-+ Swimming &#x1F3CA;
-+ Skiing &#x1F3BF;
++ Basketball :basketball:
++ Swimming :swimmer:
++ Skiing :ski:
 + Black belt in Taekwondo
 
 
