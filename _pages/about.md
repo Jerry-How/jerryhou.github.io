@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm Jiawei Hou(侯甲慰), a third year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and edge computing, vehicular networks and cooperative perception.
+I'm Jiawei Hou(侯甲慰), a third year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and mobile edge computing &#x1F4F1;&#x1F4F1;, vehicular networks &#x2B50;&#x2B50; and cooperative perception &#x1F697;&#x1F697;.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
@@ -45,9 +45,9 @@ My email is:  jerry_hou@hust.edu.cn.
 
 # Miscellaneous
 ## Sports 
-+ Basketball :basketball:
-+ Swimming :swimmer:
-+ Skiing :ski:
++ Basketball &#x1F3C0;
++ Swimming &#x1F3CA;
++ Skiing &#x1F3BF;
 + Black belt in Taekwondo
 
 
