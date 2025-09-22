@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-I'm Jiawei Hou(侯甲慰), a third year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and mobile edge computing :iphone: :iphone:, vehicular networks :star: :star: and cooperative perception :red_car: :red_car:.
+I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://faculty.hust.edu.cn/pyang/en). My research interest includes and mobile edge computing :iphone: :iphone:, vehicular networks :star: :star: and cooperative perception :red_car: :red_car:.
 
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
@@ -35,6 +35,7 @@ My email is:  jerry_hou@hust.edu.cn.
 ## Journal
 + IEEE Internet of Things Journal
 + IEEE Transactions on Mobile Computing
++ IEEE Transactions on Vehicular Technology
 + IEEE Network Magazine
 
 
