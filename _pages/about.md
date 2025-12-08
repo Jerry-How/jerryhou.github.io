@@ -50,7 +50,7 @@ My email is:  jerry_hou@hust.edu.cn.
 ## Sports 
 + Basketball 🏀
 + Swimming 🏊
-+ Skiing 🏊
++ Skiing 🏂
 + Black belt in Taekwondo
 
 
