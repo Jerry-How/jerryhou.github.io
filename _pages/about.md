@@ -12,7 +12,7 @@ I'm Jiawei Hou(侯甲慰), a fourth year Ph.D student from EIC, [Huazhong Uniser
 My email is:  jerry_hou@hust.edu.cn.
 # Publications
 ## Conference Papers
-1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Mingliu Liu, Conghao Zhou, BEVCooper: Accurate and Communication-Efficient Bird's-Eye-View Perception in Vehicular Networks,  *IEEE Conference on Computer Communications*, 2026.
+1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Mingliu Liu, Conghao Zhou, BEVCooper: Accurate and Communication-Efficient Bird's-Eye-View Perception in Vehicular Networks,  *IEEE INFOCOM*, 2026.  <mark>Accept ratio: 18.9%<mark>
 2. **Jiawei Hou**, Peng Yang, Tian Qin, Wen Wu, [Edge-Coordinated On-Road Perception for Connected Autonomous Vehicles Using Point Cloud](https://ieeexplore.ieee.org/abstract/document/10201836),  *Biennial Symposium on Communications*, 2023.
 3. Tian Qin, **Jiawei Hou**, Peng Yang, Xiaofeng Cao, Ye Wu, [Edge-Assisted Low-Latency Object Detection for Networked Vehicles Using Point Cloud](https://ieeexplore.ieee.org/abstract/document/10608254),  *International Conference on Cloud and Network Computing*, pp. 49-56, 2024. <mark>Best paper runner up<mark>
 4. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, [Adaptive Offloading and Enhancement for Low-Light Video Analytics on Mobile Devices](https://arxiv.org/abs/2409.05297), *IEEE GLOBECOM*, 2024.
@@ -20,10 +20,11 @@ My email is:  jerry_hou@hust.edu.cn.
 
 ## Journal Papers
 1. **Jiawei Hou**, Peng Yang, Xiangxiang Dai, Tian Qin, Feng Lyu, [Enhancing Cooperative LiDAR-based Perception Accuracy in Vehicular Edge Networks](https://ieeexplore.ieee.org/document/10901958), *IEEE Transactions on Intelligent Transportation Systems*, vol. 26, no. 6, pp. 8283-8296, 2025.
-2. Yezheng Zhang*, Zhijie Fan*, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles](https://ieeexplore.ieee.org/document/10806876), *IEEE Transactions on Vehicular Technology*, vol. 74, no. 4, pp. 5637-5648, 2025.
-3. Peng Yang, **Jiawei Hou**, Li Yu, Wenxiong Chen, Ye Wu, [Edge-coordinated energy-efficient video analytics for digital twin in 6G](https://ieeexplore.ieee.org/abstract/document/10061660), *China Communications*, vol. 20, no. 2, pp. 14-25, 2023.
-4. Chengzhi Wang, Peng Yang, **Jiawei Hou**, Zhi Liu, Ning Zhang, [Dependence-Aware Multi-Task Scheduling for Edge Video Analytics With Accuracy Guarantee](https://ieeexplore.ieee.org/abstract/document/10543048),  *IEEE Internet of Things Journal*, vol. 11, no. 16, pp. 26970-26983, 2024.
-5. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, [Joint Encoding and Enhancement for Low-Light Video Analytics in Mobile Edge Networks](https://ieeexplore.ieee.org/abstract/document/10787093), *IEEE Transactions on Mobile Computing*,  vol. 24, no. 4, pp. 3330-3345, 2025.
+2. Qin Tian, **Jiawei Hou**, Ruozhi Huang, Peng Yang, [Edge-Assisted Semantics-Aware Point Cloud Sampling and Transmission for CAVs], *IEEE Internet of Things Journal*, early access, 2026.
+3. Yezheng Zhang*, Zhijie Fan*, **Jiawei Hou**, Nan Chen, Feng Lyu, Peng Yang, [Incentivizing Point Cloud-Based Accurate Cooperative Perception for Connected Vehicles](https://ieeexplore.ieee.org/document/10806876), *IEEE Transactions on Vehicular Technology*, vol. 74, no. 4, pp. 5637-5648, 2025.
+4. Peng Yang, **Jiawei Hou**, Li Yu, Wenxiong Chen, Ye Wu, [Edge-coordinated energy-efficient video analytics for digital twin in 6G](https://ieeexplore.ieee.org/abstract/document/10061660), *China Communications*, vol. 20, no. 2, pp. 14-25, 2023.
+5. Chengzhi Wang, Peng Yang, **Jiawei Hou**, Zhi Liu, Ning Zhang, [Dependence-Aware Multi-Task Scheduling for Edge Video Analytics With Accuracy Guarantee](https://ieeexplore.ieee.org/abstract/document/10543048),  *IEEE Internet of Things Journal*, vol. 11, no. 16, pp. 26970-26983, 2024.
+6. Yuanyi He, Peng Yang, Tian Qin, **Jiawei Hou**, Ning Zhang, [Joint Encoding and Enhancement for Low-Light Video Analytics in Mobile Edge Networks](https://ieeexplore.ieee.org/abstract/document/10787093), *IEEE Transactions on Mobile Computing*,  vol. 24, no. 4, pp. 3330-3345, 2025.
 
 # Reviewer for
 ## Conference
